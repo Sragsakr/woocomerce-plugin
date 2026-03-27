@@ -4,7 +4,7 @@ description: >-
   WooCommerce Store API, and JWT-Auth. Supports products, orders, cart,
   checkout, coupons, categories, attributes, variations, shipping, payments,
   settings, currency, and more.
-version: 1.6.2
+version: 2.0.0
 homepage: https://github.com/Sragsakr/woocomerce-plugin
 repository: https://github.com/Sragsakr/woocomerce-plugin
 issue_tracker: https://github.com/Sragsakr/woocomerce-plugin/issues
